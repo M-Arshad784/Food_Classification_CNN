@@ -6,6 +6,49 @@ This project focuses on **food image classification using Deep Learning and Conv
 
 The model is trained to analyze food images and classify them into the food categories included in the dataset.
 
+## Dataset
+
+The dataset used in this project is the **Food Classification Dataset**.
+
+The dataset contains multiple food categories, including:
+
+* apple_pie
+* Baked Potato
+* burger
+* butter_naan
+* chai
+* chapati
+* cheesecake
+* chicken_curry
+* chole_bhature
+* Crispy Chicken
+* dal_makhani
+* dhokla
+* Donut
+* fried_rice
+* Fries
+* Hot Dog
+* ice_cream
+* idli
+* jalebi
+* kaathi_rolls
+* kadai_paneer
+* kulfi
+* masala_dosa
+* momos
+* omelette
+* paani_puri
+* pakode
+* pav_bhaji
+* pizza
+* Taquito
+* Taco
+* sushi
+* sandwhich
+* samosa
+
+**Dataset Link:** [Food Classification Dataset](DATASET_LINK_HERE)
+
 ## Technologies Used
 
 * Python
